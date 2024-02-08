@@ -32,7 +32,7 @@ The Open-Source Project is a gobang (Five in a Row) game built using the Qt fram
    
  2. Open the project file yourproject.pro using Qt Creator.
  3. Build and compile the project.
- 4. Run the generated executable to start playing the Gomoku game.
+ 4. Run the generated executable to start playing the gobang game.
 
 ## Contributors
 Project Author: Jack Lau jacklau1222@foxmail.com
